@@ -4,6 +4,7 @@ https://www.udacity.com/course/ud304
 http://udacity.github.io/frontend-nanodegree-styleguide/index.html
 http://getbootstrap.com/css/
 http://css-tricks.com/
+https://docs.webplatform.org/wiki/css
 http://www.w3.org/TR/#tr_CSS
 http://www.w3.org/TR/html5/
 http://www.w3schools.com/html/default.asp

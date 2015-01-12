@@ -1,0 +1,20 @@
+Website References and documention
+
+https://www.udacity.com/course/ud304
+http://udacity.github.io/frontend-nanodegree-styleguide/index.html
+http://getbootstrap.com/css/
+http://css-tricks.com/
+http://www.w3.org/TR/#tr_CSS
+http://www.w3.org/TR/html5/
+http://www.w3schools.com/html/default.asp
+http://www.w3schools.com/cssref/default.asp
+https://developer.mozilla.org/en-US/docs/Web
+
+Tools sowtware and testing
+
+Sublime editor
+https://developers.google.com/web/fundamentals/tools/setup/editor
+The Chrome Developer Tools
+https://developer.chrome.com/devtools
+Udacity Project 1 Coding Environment node for testing & comparisons
+https://www.udacity.com/course/viewer/#!/c-nd001/l-2736698543/e-3167758958/m-3173588664

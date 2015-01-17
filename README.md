@@ -8,7 +8,6 @@ Then we had to use the Project Coding Environment node to write our HTML and CSS
 
 # My result from the Project Coding Environment
 
-Congratulations! Tests completed successfully and you achieved a 0.17% mismatch! Press 'Submit' to submit your project for grading!
-
+Congratulations you achieved a 0% mismatch, that's completely Udacious!
 
 

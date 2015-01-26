@@ -1,29 +1,31 @@
+/* General styles */
 body {
   font-family: Kalimati, Verdana, sans-serif;
   font-size: 16px;
   color: #666;
 }
 
-li {
-  line-height: 32px;
-}
 
-p {
-  line-height: 32px;
-}
-
+/* Header */
 h1 {
   color: #666;
   font-size: 48px;
   padding:0;
-  margin: 45px 0 30px 0;
+  margin: 45px 0 30px;
 }
 
+
+/* Main Content */
 .paragraph-header {
   margin: 0 0 30px;
   font-size: 24px;
   font-weight: bold;
   color: #f07c17;
+}
+
+li,
+p {
+  line-height: 32px;
 }
 
 .main-feature {
